@@ -1,0 +1,10 @@
+aiohttp
+numpy
+pandas
+psutil
+requests
+talib
+cachetools
+python-dotenv
+openpyxl
+prometheus-client
