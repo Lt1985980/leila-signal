@@ -3,8 +3,9 @@ numpy
 pandas
 psutil
 requests
-talib
+TA-Lib  
 cachetools
 python-dotenv
 openpyxl
 prometheus-client
+
